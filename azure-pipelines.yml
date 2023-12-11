@@ -8,7 +8,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: 'a6da939b-24b0-435f-8a0c-8c1e4353f3e9'
+  azureServiceConnectionId: 'b7efef8e-277d-4160-b9ef-670bdc8bc073'
 
   # Web app name
   webAppName: 'isotomor-flaskpipelines'
